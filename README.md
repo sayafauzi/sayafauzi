@@ -1,22 +1,22 @@
-# Hi there, I'm Ahmad Fauzi! [cite_start]👋 [cite: 1]
+# Hi there, I'm Ahmad Fauzi! 👋 
 
-**Software Engineer | [cite_start]Web Developer** [cite: 2, 5]
+**Software Engineer | [cite_start]Web Developer** 
 
-[cite_start]I possess 2 years of comprehensive web development expertise, encompassing the creation of intuitive and responsive UI/UX for different devices[cite: 5]. [cite_start]I am eager to contribute positively and continuously learn, and my experience includes collaborating with a client to develop UI/UX websites for their specific needs[cite: 7]. [cite_start]I particularly value teamwork and excel at building impactful solutions through shared vision and meticulous planning[cite: 8].
+I possess 2 years of comprehensive web development expertise, encompassing the creation of intuitive and responsive UI/UX for different devices[cite: 5]. [cite_start]I am eager to contribute positively and continuously learn, and my experience includes collaborating with a client to develop UI/UX websites for their specific needs[cite: 7]. [cite_start]I particularly value teamwork and excel at building impactful solutions through shared vision and meticulous planning[cite: 8].
 
-### [cite_start]🛠️ Skills [cite: 9]
+### 🛠️ Skills 
 * **Languages:** PHP, Dart, JavaScript, Kotlin, Python[cite: 10].
 * [cite_start]**Frameworks/Libraries:** Laravel, Flutter, React, Angular, Node.js[cite: 11].
 * [cite_start]**Tools & Technologies:** CCNA (Networking), Git, RESTful APIs, Firebase[cite: 12].
 * **Core Competencies:** Responsive Web Design, Mobile App Development, UI/UX Design, SOLID Principles[cite: 13].
 
-### 💼 Experience [cite: 14]
-**Freelance Web Developer | [cite_start]Self-Employed** (2024 - Present) [cite: 15]
-* Designed and developed jasaahlikunci.com, a web-based company profile for a key duplication service in Batam[cite: 16].
-* [cite_start]Implemented Search Engine Marketing (SEM) and SEO strategies to improve site visibility and local search rankings for the business[cite: 18].
-* [cite_start]Built a responsive and user-friendly interface using modern web technologies to enhance customer conversion[cite: 19].
+### 💼 Experience 
+**Freelance Web Developer | Self-Employed** (2024 - Present) [cite: 15]
+* Designed and developed jasaahlikunci.com, a web-based company profile for a key duplication service in Batam.
+* Implemented Search Engine Marketing (SEM) and SEO strategies to improve site visibility and local search rankings for the business.
+* Built a responsive and user-friendly interface using modern web technologies to enhance customer conversion.
 
-**Junior Software Engineer | [cite_start]CV Mitra Total Solution** (2022 - 2023) [cite: 20]
+**Junior Software Engineer | CV Mitra Total Solution** (2022 - 2023) 
 * [cite_start]Developed and optimized the Web UI for PPDB Al Kahfi, ensuring a seamless registration flow for users[cite: 21, 23].
 * [cite_start]Designed and implemented the Android UI for Hang Mobile, focusing on intuitive navigation and responsive layouts[cite: 24].
 * Collaborated on the Mid Wiyata project, delivering high-fidelity Web UI/UX designs that met specific client requirements[cite: 25].
