@@ -1,4 +1,4 @@
-<div style="font-family: 'Quicksand', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #444;">
+<div style="font-family: 'Quicksand', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.5; color: #444;">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand">
