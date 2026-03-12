@@ -16,14 +16,16 @@
     <td width="60%" style="border: none;">
       <h3>👨‍💻 About Me</h3>
       <p>I possess 2 years of comprehensive web development expertise, encompassing the creation of intuitive and responsive UI/UX. I am eager to contribute positively and continuously learn. I particularly value teamwork and excel at building impactful solutions through shared vision and meticulous planning.</p>
-      <p📫 <strong>Reach me out:</strong></p>
+      <p>📫 <strong>Reach me out:</strong></p>
       <p>
         <a href="mailto:ahmad.fauzi.aziz825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
         <a href="https://linkedin.com/in/ahmad-fauzi-aziz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       </p>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxdjB6ZGtwZzhscThxazZnZ25rZzB0aWd1MndpZ25xZ2w0Mnd4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGVNytxGvI70/giphy.gif" width="85%" alt="Developer Animation"/>
+      <a href="https://s.id/ahmadfauzi-portfolio-2026" target="_blank">
+        <img src="portfolio.png" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Portfolio Ahmad Fauzi"/>
+      </a>
     </td>
   </tr>
 </table>
